@@ -19,10 +19,10 @@ While wood can be processed by heavy machinery, I decided to take the more tradi
 Why? Because that's exactly what makes wood such an awesome material. You can just take your hands, some sharp tools and the fun starts! In my opinion it is also very medidative and helps to calm down in this very busy life nowadays. Plus there are some extra advantages which come along with handtools, namely a higher degree of safety (no machines spinning like crazy) and silence (you don't disturb your neighbours that easily).
 <br><br>
 Browse through my page and have fun! 
-<br><br><br>
+<br><br>
 
 Christian
-<br><br><br>
+<br>
 <a href="//chrschoeffmann.github.io/assets/images/workbench01.jpg" data-lightbox="workbench01"     data-title="My workbench.">
     <img src="//chrschoeffmann.github.io/assets/images/workbench01.jpg" width="700" title="My workbench.">
 </a>
