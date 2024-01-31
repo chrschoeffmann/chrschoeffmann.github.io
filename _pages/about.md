@@ -10,7 +10,7 @@ comments: false
 
 <p>My name is Christian and welcome to my personal webpage. 
 This page is all about my most favorite hobby - woodworking. I want to share my stories, projects, tips and other stuff to the world. Hopefully, someone out there finds inspiration in what I am sharing here :)
-
+<br>
 I consider myself a hobby woodworker who enjoys the beauty of working with wood in all it's forms. Wood is one of the most natural ressources on our planet and is used for various purposes ever since. 
 I am especially interested in furniture made out of high-quality wood. The smell of fresh processed wood, the natural beauty with its unique textures. If you ever entered a room with high-quality wood furniture you probably know what I mean ;)
 
@@ -23,12 +23,7 @@ Browse through my page and have fun!
 
 Christian
 
-
-
 </p>
-
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-
 </div>
 
 
@@ -39,7 +34,6 @@ Christian
 
 <p> <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6zb0M4Drdplz1fBaXbqxDA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> </p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
 
 </div>
 </div>
