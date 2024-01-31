@@ -23,6 +23,10 @@ Browse through my page and have fun!
 
 Christian
 
+<a href="//chrschoeffmann.github.io/assets/images/workbench01.jpg" data-lightbox="workbench01"     data-title="My workbench.">
+    <img src="//chrschoeffmann.github.io/assets/images/workbench01.jpg" width="500" title="My workbench.">
+</a>
+
 </p>
 </div>
 
