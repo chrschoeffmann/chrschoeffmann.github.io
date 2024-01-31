@@ -3,7 +3,7 @@ layout: post
 title:  "Maple meets Ovangkol"
 author: chris
 categories: [ Jekyll, tutorial ]
-image: assets/images/maple_ovangkol.jpg
+image: assets/images/maple_ovangkol.jpeg
 ---
 Dovetail time! YES! 
 
