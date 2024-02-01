@@ -6,10 +6,6 @@ categories: [ Jekyll, tutorial ]
 image: assets/images/maple_ovangkol.jpeg
 ---
 
-
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
-
 Dovetail time! YES! 
 
 Dovetails are probably the most beautiful wood joints out there. With their unique style they are immediately recognizable. Fun fact: It is believed that dovetails were originally not invented for decorative purposes. Rather, they were used for drawers and at situations where high tensile strength is needed. Thats another cool thing about dovetails: they are super strong. A tight dovetail joint will hold together for centuries ... probably even without glue. However, nowadays you find dovetails as a decorative element for boxes, drawers, cabinets, etc.
@@ -67,3 +63,15 @@ Finally, I applied two layers of oil finish to the box, polished everything with
 <a href="//chrschoeffmann.github.io/assets/images/prj1_final.jpg" data-lightbox="image0" data-title="Finalized dovetail box.">
   <img src="//chrschoeffmann.github.io/assets/images/prj1_final.jpg" title="Finalized dovetail box.">
 </a>
+
+
+<div class="col-md-4">
+
+<div class="sticky-top sticky-top-80">
+<h5>Some creamy music</h5>
+
+<p> <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6zb0M4Drdplz1fBaXbqxDA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> </p>
+
+
+</div>
+</div>
