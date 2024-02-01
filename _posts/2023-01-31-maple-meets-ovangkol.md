@@ -5,6 +5,11 @@ author: chris
 categories: [ Jekyll, tutorial ]
 image: assets/images/maple_ovangkol.jpeg
 ---
+
+
+<div class="row justify-content-between">
+<div class="col-md-8 pr-5">
+
 Dovetail time! YES! 
 
 Dovetails are probably the most beautiful wood joints out there. With their unique style they are immediately recognizable. Fun fact: It is believed that dovetails were originally not invented for decorative purposes. Rather, they were used for drawers and at situations where high tensile strength is needed. Thats another cool thing about dovetails: they are super strong. A tight dovetail joint will hold together for centuries ... probably even without glue. However, nowadays you find dovetails as a decorative element for boxes, drawers, cabinets, etc.
